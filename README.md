@@ -51,6 +51,15 @@ Install Theano
 $ conda install theano pygpu
 ```
 
+Install other dependencies
+
+```Shell
+$ conda install scikit-learn
+$ pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+$ conda install nb_conda
+```
+
+
 If you have problems with the installation check with ...
 
 * Theano --> check [this](http://deeplearning.net/software/theano/install.html#install) guide
@@ -64,6 +73,11 @@ Move with the command line to the `Neural_Network_DNA_Demo` folder:
 $ cd <LOCATION_OF_DOWNLOAD>/Neural_Network_DNA_Demo
 ```
 
+and start the Jupyter notebook:
+
+```Shell
+$ jupyter notebook
+```
 
 
 
