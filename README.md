@@ -46,7 +46,7 @@ $ source activate seqnn
 Download the `Neural_Network_DNA_Demo` either by cloning it with git
 
 ```Shell
-$ git clone https://github.com/Artjom-Metro/Neural_Network_DNA_Demo.git
+$ git clone https://github.com/const-ae/Neural_Network_DNA_Demo.git
 ```
 
 __OR__ download this [zip file](https://github.com/Artjom-Metro/Neural_Network_DNA_Demo/archive/master.zip) and extracting it somewhere.
