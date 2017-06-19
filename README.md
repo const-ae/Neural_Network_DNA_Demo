@@ -34,7 +34,13 @@ After the successful installation of Anaconda we will create a new conda environ
 
 ```Shell
 $ conda create -n seqnn python=3.5 
+```
+
+```Shell
+# On Windows
 $ activate seqnn
+# On Mac / Linux
+$ source activate seqnn
 ```
 
 Download the `Neural_Network_DNA_Demo` either by cloning it with git
