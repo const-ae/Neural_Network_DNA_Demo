@@ -60,9 +60,7 @@ $ conda install theano pygpu
 Install other dependencies
 
 ```Shell
-$ conda install scikit-learn
-$ pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
-$ conda install nb_conda
+$ conda install scikit-learn numpy scipy matplotlib ipython jupyter pandas sympy nose nb_conda
 ```
 
 
