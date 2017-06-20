@@ -44,15 +44,7 @@ $ activate seqnn
 $ source activate seqnn
 ```
 
-Download the `Neural_Network_DNA_Demo` either by cloning it with git
-
-```Shell
-$ git clone https://github.com/const-ae/Neural_Network_DNA_Demo.git
-```
-
-__OR__ download this [zip file](https://github.com/Artjom-Metro/Neural_Network_DNA_Demo/archive/master.zip) and extracting it somewhere.
-
-Install Theano 
+Install Theano
 
 ```Shell
 $ conda install theano pygpu
@@ -64,6 +56,13 @@ Install other dependencies
 $ conda install scikit-learn keras numpy scipy matplotlib ipython jupyter pandas sympy nose nb_conda
 ```
 
+Download the `Neural_Network_DNA_Demo` project either by cloning it with git
+
+```Shell
+$ git clone https://github.com/const-ae/Neural_Network_DNA_Demo.git
+```
+
+__OR__ download this [zip file](https://github.com/Artjom-Metro/Neural_Network_DNA_Demo/archive/master.zip) and extracting it somewhere.
 
 Move with the command line to the `Neural_Network_DNA_Demo` folder:
 
