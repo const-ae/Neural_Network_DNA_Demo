@@ -9,7 +9,8 @@ a convolutional neural network we will be able to make predictions
 for new sequences. In addition we will extract what the network learned
 and make a plot of the motif.
 
-The example are chosen such that it is not necessary to have a GPU and should learn just fine on CPU.
+The example are chosen such that it is not necessary to have a GPU and
+ should learn just fine on a CPU.
 
 # Preparation
 
@@ -64,13 +65,6 @@ $ conda install scikit-learn keras numpy scipy matplotlib ipython jupyter pandas
 ```
 
 
-If you have problems with the installation check with ...
-
-* Theano --> check [this](http://deeplearning.net/software/theano/install.html#install) guide
-* Keras --> check [this](https://keras.io/#installation) guide
-
-or just open issue [here](https://github.com/Artjom-Metro/Neural_Network_DNA_Demo/issues).
-
 Move with the command line to the `Neural_Network_DNA_Demo` folder:
 
 ```Shell
@@ -83,10 +77,18 @@ and start the Jupyter notebook:
 $ jupyter notebook
 ```
 
+A new browser page should open where you can click on the `.ipynb` file
+and start experimenting.
 
 
+# Problems, Issues etc.
 
+If you have problems with the installation of ...
 
+* ... Theano --> check [this](http://deeplearning.net/software/theano/install.html#install) guide
+* ... Keras --> check [this](https://keras.io/#installation) guide
+
+or just open an issue [here](https://github.com/const-ae/Neural_Network_DNA_Demo/issues).
 
 
 
